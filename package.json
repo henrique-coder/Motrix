@@ -85,7 +85,7 @@
     "file-loader": "^6.2.0",
     "html-webpack-plugin": "^5.5.1",
     "i18next": "^22.4.15",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "mini-css-extract-plugin": "2.7.5",
     "node-loader": "^2.0.0",
     "normalize.css": "^8.0.1",
